@@ -21,8 +21,7 @@ Building scalable, resilient systems with Java, Spring Boot, and AWS.
 
 ### 📌 Featured Projects
 - 🔗 [Employee Recognition API](https://github.com/Teenu24/employee-recognition-api) – Spring Boot microservice with REST APIs, JWT auth, Docker support  
-- 🔗 [Spring AI Learning](https://github.com/Teenu24/mcp-spring-ai-learning) – Experimenting with Spring + AI integrations  
-- 🔗 [Design Patterns in Java](https://github.com/Teenu24/design-patterns-java) – Classic design patterns, refactored with modern Java  
+
 
 
 ---
