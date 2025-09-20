@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 **Teenu24/Teenu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi, I'm Teenu Anand Nukavarapu 👋  
@@ -20,11 +19,9 @@ Building scalable, resilient systems with Java, Spring Boot, and AWS.
 ---
 
 ### 📌 Featured Projects
-- 🔗 [Employee Recognition API](https://github.com/Teenu24/employee-recognition-api) – Spring Boot microservice with REST APIs, JWT auth, Docker support
-- 🔗 [Comparative Sentiment Analysis on Movie Reviews](https://github.com/Teenu24/Comparative-Sentimental-Analysis-On-Movie-Reviews-Using-Machine-Learning-Algorithms) Machine Learning project comparing Logistic Regression, SVM, Naive Bayes, and KNN on IMDB dataset  
- 
-
-
+- 🔗 [Employee Recognition API](https://github.com/Teenu24/employee-recognition-api) – Spring Boot microservice with REST APIs, JWT auth, Docker support  
+- 🔗 [Comparative Sentiment Analysis on Movie Reviews](https://github.com/Teenu24/Comparative-Sentimental-Analysis-On-Movie-Reviews-Using-Machine-Learning-Algorithms) – Machine Learning project comparing Logistic Regression, SVM, Naive Bayes, and KNN on IMDB dataset  
+- 🔗 [Face Recognition Attendance System](https://github.com/Teenu24/Face-recognition--based-attendance) – Python + OpenCV + Tkinter project for real-time face recognition–based attendance logging  
 
 ---
 
@@ -36,4 +33,4 @@ Building scalable, resilient systems with Java, Spring Boot, and AWS.
 ---
 
 ### 📫 Connect 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anandnukavarapu/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anandnukavarapu/)  
