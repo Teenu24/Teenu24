@@ -35,4 +35,4 @@ Building scalable, resilient systems with Java, Spring Boot, and AWS.
 ---
 
 ### 📫 Connect 
-- 💼 [LinkedIn](https://www.linkedin.com/in/teenu-anand-nukavarapu/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anandnukavarapu/))  
