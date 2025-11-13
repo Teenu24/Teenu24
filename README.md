@@ -1,10 +1,6 @@
-## Hi there 👋
 
-**Teenu24/Teenu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Teenu Anand Nukavarapu 👋  
-
-🚀 **Senior Software Engineer (Backend | Trust & Safety Platforms)**  
+# Hi, I'm🚀 **Senior Software Engineer (Backend | Trust & Safety Platforms)**  
 Building scalable, resilient systems with Java, Spring Boot, and AWS.  
 
 ---
